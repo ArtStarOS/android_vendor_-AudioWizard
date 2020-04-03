@@ -1,0 +1,17 @@
+# Audio
+ro.dts.licensepath=/system/vendor/etc/dts/
+ro.vendor.dts.licensepath=/system/vendor/etc/dts/
+ro.dts.cfgpath=/system/vendor/etc/dts/
+ro.vendor.dts.cfgpath=/system/vendor/etc/dts/
+# ro.product.model=ASUS_X00QD
+# ro.product.vendor.model=ASUS_X00QD
+# ro.build.product=ASUS_X00QD
+# ro.build.asus.sku=WW
+persist.sys.dts.settings=1
+ro.audio.monitorRotation=true
+ro.asus.audio.dualSPK=true
+ro.asus.aw.settingentry=1
+ro.asus.dts.headphone.default_enable=true
+ro.asus.audiowizard.outdoor=1
+audio.wizard.video=1
+ro.asus.audio.realStereo=true

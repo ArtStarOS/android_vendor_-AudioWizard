@@ -6,7 +6,7 @@
             AudioWizard
 ```
 ```bash
-            AudioWizard
+            AudioWizardView
 ```
 
 ## Thanks For ASUS

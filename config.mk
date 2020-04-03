@@ -78,3 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/AudioWizard/vendor/lib64/libdts-eagle-shared.so:$(TARGET_COPY_OUT_SYSTEM)/vendor/lib64/libdts-eagle-shared.so \
     vendor/AudioWizard/vendor/lib64/libdtsdsec.so:$(TARGET_COPY_OUT_SYSTEM)/vendor/lib64/libdtsdsec.so \
     vendor/AudioWizard/vendor/lib64/soundfx/libdtsaudio.so:$(TARGET_COPY_OUT_SYSTEM)/vendor/lib64/soundfx/libdtsaudio.so 
+    
+# System.prop
+TARGET_SYSTEM_PROP += \
+    vendor/AudioWizard/system.prop
